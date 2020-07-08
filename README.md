@@ -1,0 +1,1 @@
+I dont even know why I made this but this epic programm will print out all numbers from 0 to one million, that are dividable by 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10. Enjoy.
